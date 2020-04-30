@@ -1,4 +1,5 @@
-# <div align="center">*Histopathologic Cancer Detection*</div>
+# <div align="center">Histopathologic Cancer Detection</div>
+
 <p align = "center"><img width="500" img height="200" src = "https://github.com/siddh30/Histopathologic-Cancer-Detection/blob/master/logo.png"</p>
 
 
