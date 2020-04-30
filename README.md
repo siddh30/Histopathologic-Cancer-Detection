@@ -1,6 +1,6 @@
 #  <div align="center"> Histopathologic Cancer Detection </div>
 
-<p align = "center"><img width="500" img height="200" src = "https://github.com/siddh30/Histopathologic-Cancer-Detection/blob/master/logo.png"</p>
+<p align = "center"><img width="800" img height="200" src = "https://github.com/siddh30/Histopathologic-Cancer-Detection/blob/master/logo.png"</p>
 
 
 The goal of this project is to create an algorithm that will identify the metastatic tissues in histopathologic scans of the lymph node sections using one of the deep learning techniques – Convolutional Neural Network. We aim to classify cancer tissues based on the labels - Malignant or Benign. For simplicity, we have given Malignant as “1” and Benign as “0”. In this project, we tried to understand the cancer detection process based on the given dataset. Our dataset includes many small pathology images to classify as labels - “1” or “0”. The project is implemented using Python. This project was a part of a Kaggle competition.
